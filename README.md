@@ -1,9 +1,5 @@
 # 🧠 Brain Tumor Detection
 
-![Brain Tumor Scan](https://github.com/user-attachments/assets/52876b8f-48ec-4d6d-add4-e04c5e3f3d92)
-![Result 1](https://github.com/user-attachments/assets/bf8dbc75-a8c0-4857-a3b2-22a17968fdd4)
-![Result 2](https://github.com/user-attachments/assets/cd987d91-a121-4c92-8628-f3ff06ccff40)
-
 ## 🚀 Project Overview
 
 This project is a Deep Learning-based Brain Tumor Detection system using Convolutional Neural Networks (CNN). It allows users to upload brain CT Scan images and predicts the presence of a tumor using a trained Keras model.
@@ -64,6 +60,10 @@ Upload an CT scan Image and receive a classification:
 - Tumor Detected
 
 - No Tumor
+
+![Brain Tumor Scan](https://github.com/user-attachments/assets/52876b8f-48ec-4d6d-add4-e04c5e3f3d92)
+![Result 1](https://github.com/user-attachments/assets/bf8dbc75-a8c0-4857-a3b2-22a17968fdd4)
+![Result 2](https://github.com/user-attachments/assets/cd987d91-a121-4c92-8628-f3ff06ccff40)
 
 📓 License
 
