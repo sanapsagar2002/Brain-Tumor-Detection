@@ -40,14 +40,19 @@ This project is a Deep Learning-based Brain Tumor Detection system using Convolu
 ```bash
 git clone https://github.com/sanapsagar2002/Brain-Tumor-Detection.git
 cd Brain-Tumor-Detection
+```
 
 2. Install Requirements
-
+   
+```bash
 pip install -r requirements.txt
+```
 
 3. Run the App
 
+```bash
 python app.py
+```
 
 🧠 Model Info
 
