@@ -6,7 +6,7 @@ This project is a Deep Learning-based Brain Tumor Detection system using Convolu
 
 ## 🧠 Features
 
-- Upload MRI images and detect tumors
+- Upload CT Scan images and detect tumors
 - Utilizes a trained CNN model (.keras file)
 - Simple web interface built with Python
 - Modular design with Flask-style Python scripts
@@ -16,7 +16,7 @@ This project is a Deep Learning-based Brain Tumor Detection system using Convolu
 - Python
 - TensorFlow / Keras
 - OpenCV / PIL
-- Flask (or streamlit if applicable)
+- streamlit 
 - Jupyter Notebook
 - Git & GitHub
 
